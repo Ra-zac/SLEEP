@@ -1,0 +1,7 @@
+*
+!*.py
+!*.ipynb
+!.gitignore
+!/SWSdata/
+!/SWSdata/*.py
+!/SWSdata/*.ipynb
